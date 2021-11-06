@@ -1,2 +1,2 @@
-# poo_course
-Notes, exercises and projects made during the POO Course in Platzi.
+# oop_course
+Notes, exercises and projects made during the OOP Course in Platzi.
